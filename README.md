@@ -1,8 +1,8 @@
 # Cplusplus
 
-SFML
-SDL
-OpenGL
-OpenSSL
-Json C++
-SQLite
+- SFML
+- SDL
+- OpenGL
+- OpenSSL
+- Json C++
+- SQLite**
