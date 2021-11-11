@@ -5,4 +5,6 @@
 - OpenGL
 - OpenSSL
 - Json C++
-- SQLite**
+- SQLite
+
+- assimp
