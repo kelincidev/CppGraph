@@ -16,3 +16,4 @@ kita akan mulai dengan membuat Data Pengguna Inventory Penguna Setelah kita Memb
 
 Setiap Pengguna baru diberikan 100 coin free 
 
+setelah saya pikir pikir kita perlu membuat desain database terlebih dahulu jadi mari kita membuat database dengan tool/software untuk mempercepat pekerjaan 
